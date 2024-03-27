@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Issue } from './issue';
 
+
 @Injectable({
   providedIn: 'root'
 })
