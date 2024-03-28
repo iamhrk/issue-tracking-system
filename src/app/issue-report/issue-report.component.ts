@@ -23,4 +23,6 @@ export class IssueReportComponent {
     type: new FormControl('', { nonNullable: true })
   })
 
+  constructor(P) {}
+
 }
