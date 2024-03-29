@@ -10,4 +10,4 @@ Uses [Clarity Design System](https://clarity.design/documentation/get-started) f
 - Mark an issue as resolved.
 - Check for duplicate issues while reporting a new issue.
 
-[See the live version]()
+[See the live version](https://issue-tracking-system-5t5a.onrender.com/)
